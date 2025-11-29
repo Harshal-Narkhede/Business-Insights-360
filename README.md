@@ -97,7 +97,7 @@ The solution is divided into 5 specialized views to cater to different stakehold
 
 # 🔧 Technical Stack
 
-**🧰 Core Technologies**
+### 🧰 Core Technologies
 
 🔹 **Power BI** → Data visualization & dashboard development  
 🔹 **MySQL** → Database querying and data extraction  
@@ -105,7 +105,7 @@ The solution is divided into 5 specialized views to cater to different stakehold
 🔹 **DAX Studio** → Performance optimization and advanced calculations  
 🔹 **Excel/CSV** → External data integration and targets  
 
-**Advanced Skills Demonstrated**
+### Advanced Skills Demonstrated
 - 🎨 Data Modeling: Star schema design and relationship optimization
 - 📊 DAX Expertise: Complex measures, calculated columns, and time intelligence
 - 🎯 KPI Development: Business-relevant metrics and benchmarking
