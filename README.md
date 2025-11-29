@@ -117,8 +117,8 @@ Found this project valuable? I'd love to connect and discuss how data analytics 
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/narkhede-harshal/))
 
-                                                  Made with ❤️ and ☕ by Varshik Jodhani
+                                          Made with ❤️ and ☕ by Harshal Narkhede
 
-                                             _ Turning data into decisions, one dashboard at a time_
+                                    Turning data into decisions, one dashboard at a time
   
 
