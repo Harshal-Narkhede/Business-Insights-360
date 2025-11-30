@@ -119,7 +119,10 @@ The solution is divided into 5 specialized views to cater to different stakehold
 # 🤝 Let's Connect
 Found this project valuable? I'd love to connect and discuss how data analytics can transform your business!
 
+Live Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZDA1MGM1ZjktNzdjZC00N2I3LThhZmEtNDQ2NmExNDFhZDhhIiwidCI6ImZjYzhhNjVlLWViY2YtNGY2MS1iN2E5LTg0Y2QyNDFkZmY0ZCJ9
+
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/narkhede-harshal/))
+
 
                                           Made with ❤️ and ☕ by Harshal Narkhede
 
