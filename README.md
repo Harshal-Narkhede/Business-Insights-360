@@ -37,7 +37,7 @@ The solution is divided into 5 specialized views to cater to different stakehold
 - Key Insights: Detailed P&L statements allowing drill-downs into Net Sales, Gross Margin, and Net Profit.
 - Impact: Enables financial planners to benchmark performance against last year (LY) and set realistic targets (YTD).
 
-<img width="1290" height="737" alt="2  Finance View" src="https://github.com/user-attachments/assets/bd974adf-801f-427c-999b-91c61afad037" />
+<img width="1332" height="742" alt="2  Finance View" src="https://github.com/user-attachments/assets/77f061b3-967d-4268-a468-e5b12521212a" />
 
 
 
@@ -48,7 +48,8 @@ The solution is divided into 5 specialized views to cater to different stakehold
 - Key Insights: Customer Performance Matrix (Net Sales vs. Gross Margin) to identify high-volume but low-margin clients.
 - Impact: Helps the sales team negotiate better discount structures and focus on high-value customer cohorts.
 
-<img width="1292" height="728" alt="3  Sales View" src="https://github.com/user-attachments/assets/df4db7cb-dc77-4df0-9256-61c50c29ed37" />
+<img width="1328" height="743" alt="3  Sales View" src="https://github.com/user-attachments/assets/00b93e16-4079-44a9-9441-fcf4ae3abbb1" />
+
 
 
 
@@ -59,7 +60,8 @@ The solution is divided into 5 specialized views to cater to different stakehold
 - Key Insights: Visualized Market Share trends and Gross Margin % to assess product profitability.
 - Impact: Supports the marketing team in reallocating budget to high-ROI regions and products.
 
-<img width="1315" height="741" alt="4  Marketing View" src="https://github.com/user-attachments/assets/ae18d0b9-d04c-4fc3-afa2-f342ec83a0ec" />
+<img width="1335" height="751" alt="4  Marketing View" src="https://github.com/user-attachments/assets/3bd4f931-46a6-420c-97da-92f843fe7c0a" />
+
 
 
 
@@ -70,7 +72,8 @@ The solution is divided into 5 specialized views to cater to different stakehold
 - Key Insights: Tracks Forecast Accuracy, Net Error, and risk assessment (Out-of-Stock vs. Excess Inventory).
 - Impact: Directly supports inventory planning to minimize carrying costs and prevent lost sales.
 
-<img width="1306" height="747" alt="5  Supply Chain View" src="https://github.com/user-attachments/assets/ae229289-1394-4687-b822-1f7cd9da96af" />
+<img width="1333" height="746" alt="5  Supply Chain View" src="https://github.com/user-attachments/assets/310deb7f-77c4-4c84-b85d-762acf8f429d" />
+
 
 
 
@@ -81,7 +84,8 @@ The solution is divided into 5 specialized views to cater to different stakehold
 - Key Insights: Trends in Revenue Contribution, Market Share, and top 5 Customers/Products by revenue.
 - Impact: Facilitates quick, data-backed strategic pivots and long-term planning.
 
-<img width="1312" height="742" alt="6  Executive View" src="https://github.com/user-attachments/assets/4ec1410d-f26b-4008-b779-7027719a6da7" />
+<img width="1332" height="745" alt="6  Executive View" src="https://github.com/user-attachments/assets/f1de13d1-6955-4d30-94d9-8ad2b350b734" />
+
 
 
 # 💡 Strategic Insights Delivered
